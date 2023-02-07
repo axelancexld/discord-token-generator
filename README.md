@@ -1,5 +1,15 @@
 # discord-token-generator
 
+# INFORMATION
+
+- Token Generator & Joiner
+- Token Checker
+- Proxy Scraper & Checker
+- Token Onliner
+
+
+
+
 # INFO
 - This is a Simple Discord Token Generator which creates unverified discord accounts 
 - These accounts are good for member boosting for your server or for raiding
@@ -23,3 +33,6 @@ U need to get Key for start generator. Contact via Discord for Key
 
 # Contact
 - Discord : Axelance#0001
+
+![image](https://user-images.githubusercontent.com/108955751/217188295-e09dc47c-8864-4f0e-a664-9394f4cc73c2.png)
+![image](https://user-images.githubusercontent.com/108955751/217188476-982beb82-7a7b-4116-a034-0fe3f07ba006.png)
