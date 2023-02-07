@@ -1,0 +1,22 @@
+{
+    "capmonster_key": "596f83d7bf36202f4c97853de3977ee4",
+    "invite_code": "nudeko",
+    "threads": "1",
+    "use_proxies_y_or_n": "n",
+
+
+
+    "print_fails_y_or_n": "y",
+    "print_captcha_key_y_or_n": "n",
+    "print_fingerprint_y_or_n": "n",
+    "print_task_id_key_y_or_n": "n",
+    "print_email_y_or_n": "n",
+    "print_proxy_y_or_n": "n",
+
+    
+    "random_letters_after_token_username_y_or_n": "n",
+    "tokens_username": "Axelancexld ",
+    "tokens_password": "Axelancexld!",
+    "random_username_from_names.txt_y_or_n": "y"
+
+}

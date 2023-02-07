@@ -1,0 +1,23 @@
+47.91.107.251:3080|?|?|?
+204.199.174.69:999|Peru|Arequipa|Arequipa
+171.103.58.122:8080|Thailand|Bangkok|Bangkok
+204.199.174.72:999|Peru|Arequipa|Arequipa
+154.83.29.203:999|Venezuela|Barinas|Barinas
+154.83.29.206:999|Venezuela|Barinas|Barinas
+206.189.138.27:80|?|?|?
+47.250.47.46:1021|?|?|?
+157.245.113.148:80|?|?|?
+177.141.99.50:8080|Brazil|Sao Paulo|São Paulo
+178.128.78.109:80|?|?|?
+193.53.87.215:33128|Turkey|Bursa|Bursa
+204.199.174.68:999|Peru|Arequipa|Arequipa
+201.222.45.65:999|Chile|Santiago Metropolitan|La Pintana
+204.199.174.66:999|Peru|Arequipa|Arequipa
+144.76.241.45:7890|Netherlands|North Holland|Amsterdam
+197.157.219.169:48625|Nigeria|Lagos|Lagos
+45.70.236.123:999|Ecuador|Provincia de Los Rios|Puebloviejo
+5.167.141.239:3128|Russia|Tula Oblast|Tula
+31.131.67.14:8080|Ukraine|Crimea|Yevpatoriya
+206.189.195.74:8080|United States|New Jersey|North Bergen
+103.156.17.35:8181|Indonesia|West Java|Amis Empat
+218.1.142.158:57114|China|Shanghai|Shanghai
