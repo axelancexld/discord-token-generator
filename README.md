@@ -18,7 +18,7 @@
 - add proxies inside "all://": "http://username:pass@ip:port" or "all://": "http://ip:port" depending on your proxies authentication
 - Enjoy!
 
-#FREE?
+# FREE?
 U need to get Key for start generator. Contact via Discord for Key
 
 # Contact
